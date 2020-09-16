@@ -1,0 +1,19 @@
+{
+	"Combinations": {
+		"Nothing": "No score",
+		"JacksOrBetter": "Jacks or better",
+		"TwoPairs": "Two pairs",
+		"ThreeOfAKind": "Three of a kind",
+		"Straight": "Straight",
+		"Flush": "Flush",
+		"FullHouse": "Full House",
+		"FourOfAKind": "Four of a kind",
+		"StraightFlush": "Straight Flush",
+		"RoyalFlush": "Royal Flush"
+	},
+	"Controls": {
+		"Deal": "Deal cards",
+		"Draw": "Draw cards",
+		"Finish": "Finish"
+	}
+}
