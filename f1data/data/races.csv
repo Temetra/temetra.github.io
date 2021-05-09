@@ -1,4 +1,4 @@
-raceId,circuitId,year,round,name,when
+raceId,circuitId,year,round,title,when
 833,9,1950,1,British Grand Prix,1950-05-13T00:00:00
 834,6,1950,2,Monaco Grand Prix,1950-05-21T00:00:00
 835,19,1950,3,Indianapolis 500,1950-05-30T00:00:00
